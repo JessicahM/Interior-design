@@ -29,13 +29,19 @@ background-color: crimson;
 
 .goal {
  color: green;
- background-color: purple;
+ background-color: #FF00FF;
 }
 
 #one {
+  width: 300px;
   float: center;
 }
 
 #two {
+  width: 300px;
   float: center;
+}
+
+body {
+  background-image: url(http://png.clipart.me/graphics/previews/162/vector-seamless-pattern-with-stylized-golden-butterflies-on-brown-background-can-be-used-for-textile-website-background-book_162430352.jpg);
 }
