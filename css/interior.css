@@ -1,0 +1,33 @@
+.one {
+  font-family: Roboto;
+  font-weight: bold;
+  color:currentColor;
+  background-color: cyan;
+}
+
+.sidebar {
+  font-family: sans-serif;
+  width: 300px;
+  float: left;
+  background-color: violet;
+
+}
+
+.list {
+font-family: transparent;
+font-style: bold;
+color: currentColor;
+background-color: crimson;
+}
+
+.two {
+  font-family: cursive;
+  font-style: bold;
+  color: currentColor;
+  background-color: yellow;
+}
+
+.goal {
+ color: green;
+ background-color: purple;
+}
